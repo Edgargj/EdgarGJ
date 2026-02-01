@@ -34,10 +34,12 @@ at the BUAP. 🔗 https://sites.google.com/view/mathmodandssd/
 ![Git](https://img.shields.io/badge/Git-orange?logo=git)
 ![Fortran](https://img.shields.io/badge/Fortran-purple?logo=fortran)
 
+<!--
 ### High-Performance Computing
 ![MPI](https://img.shields.io/badge/MPI-orange)
 ![OpenMP](https://img.shields.io/badge/OpenMP-lightgrey)
 ![CUDA](https://img.shields.io/badge/CUDA-green?logo=nvidia)
+-->
 
 ### Scientific Software
 - **Quantum Chemistry:** GAUSSIAN, ORCA.  
@@ -64,11 +66,10 @@ These tools were developed during my B.Sc. thesis and use reference data from in
 - 🔗 [EnthalpyArgonne](https://github.com/Edgargj/EnthalpyArgonne) — Atomic data from Argonne National Laboratory. 
 
 **Key features:**
-- Written in modern C++  
-- Modular and reusable code structure  
-- Focus on numerical accuracy and reproducibility  
-- Designed for extension and optimization (HPC-oriented)
-
+- Written in C++.
+- Modular and reusable code structure.
+- Focus on numerical accuracy and reproducibility.
+- Designed for extension and optimization.
 
 ## 📫 Contact
 
