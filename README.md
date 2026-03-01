@@ -73,9 +73,9 @@ These tools were developed during my B.Sc. thesis and use reference data from in
 
 ## 📫 Contact
 
-- Email: gj223470208@alm.buap.mx
+- Email: edgargj_16@hotmail.com
 - GitHub: https://github.com/Edgargj  
-
+- Linkedln: https://www.linkedin.com/in/egjz/
 ---
 
 <!--
