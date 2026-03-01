@@ -1,10 +1,10 @@
-# Hi 👋, I'm Edgar García-Juárez
+# Hi, I'm Edgar García-Juárez
 
 I am a chemist with a strong interest in theoretical chemistry, computational chemistry, and high-performance computing.
 
 ---
 
-## 👨‍🔬 About Me
+## About Me
 - **B.Sc. in Chemistry**  from Meritorious Autonomous University of Puebla (BUAP).
 - **M.Sc. in Chemical Sciences** from Meritorious Autonomous University of Puebla (BUAP).
 - I am currently a member of the **Laboratory of Mathematical Modelling and Scientific Software Development (LabMathModSSD)** 
@@ -14,7 +14,7 @@ at the BUAP. 🔗 https://sites.google.com/view/mathmodandssd/
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 - Theoretical and Computational Chemistry. 
 - Multifractal analysis of protein structures.
@@ -25,7 +25,7 @@ at the BUAP. 🔗 https://sites.google.com/view/mathmodandssd/
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 ### Programming & Tools
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
@@ -60,7 +60,6 @@ A collection of C++ programs developed to calculate gas-phase enthalpies of form
 These tools were developed during my B.Sc. thesis and use reference data from internationally recognized sources, combined with electronic energies obtained from GAUSSIAN (G4 method).
 
 **Main repositories:**
-- 🔗 [EnthalpyG4](https://github.com/Edgargj/EnthalpyG4) — Enthalpy calculations using GAUSSIAN G4 energies.
 - 🔗 [EnthalpyNIST](https://github.com/Edgargj/EnthalpyNIST) — Reference thermochemical data from NIST.
 - 🔗 [EnthalpyTajti](https://github.com/Edgargj/EnthalpyTajti) — Atomic reference values following Tajti et al.  
 - 🔗 [EnthalpyArgonne](https://github.com/Edgargj/EnthalpyArgonne) — Atomic data from Argonne National Laboratory. 
